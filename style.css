@@ -1,4 +1,11 @@
 body{
     background-color: black; 
+}
+
+h1{
+    color: ghostwhite;
+}
+
+p{
     color: ghostwhite;
 }
